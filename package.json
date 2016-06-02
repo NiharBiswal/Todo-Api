@@ -1,14 +1,24 @@
 {
+<<<<<<< HEAD
   "name": "web-server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+=======
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> Initialize repo
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "body-parser": "^1.13.3",
     "express": "^4.13.2"
   },
@@ -22,4 +32,10 @@
   },
   "homepage": "https://github.com/NiharBiswal/web-server#readme",
   "description": ""
+=======
+    "body-parser" : "^1.13.3",
+    "express": "^4.13.3",
+    "underscore" : "^1.8.3"
+  }
+>>>>>>> Initialize repo
 }
